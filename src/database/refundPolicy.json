@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "id": "RULE001",
+      "name": "Return Window",
+      "description": "Refunds only allowed within 30 days of purchase",
+      "maxDays": 30
+    },
+    {
+      "id": "RULE002",
+      "name": "Account Status",
+      "description": "Suspended accounts cannot get refunds",
+      "requirement": "must be active"
+    },
+    {
+      "id": "RULE003",
+      "name": "Refund Cap",
+      "description": "Maximum refund per request is $500",
+      "maxAmount": 500
+    },
+    {
+      "id": "RULE004",
+      "name": "50% Deduction After 15 Days",
+      "description": "50% deduction applied after 15 days",
+      "dayThreshold": 15,
+      "deductionPercent": 50
+    }
+  ]
+}

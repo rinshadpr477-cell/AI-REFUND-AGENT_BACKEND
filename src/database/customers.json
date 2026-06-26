@@ -1,0 +1,137 @@
+[
+  {
+    "id": "CUST001",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "accountCreatedDate": "2022-01-15",
+    "totalPurchases": 5,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST002",
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "accountCreatedDate": "2023-06-20",
+    "totalPurchases": 1,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST003",
+    "name": "Charlie Brown",
+    "email": "charlie@example.com",
+    "accountCreatedDate": "2020-03-10",
+    "totalPurchases": 20,
+    "returnsHistory": ["ORDER002", "ORDER003"],
+    "accountStatus": "suspended"
+  },
+  {
+    "id": "CUST004",
+    "name": "Diana Prince",
+    "email": "diana@example.com",
+    "accountCreatedDate": "2023-01-01",
+    "totalPurchases": 2,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST005",
+    "name": "Evan Brown",
+    "email": "evan@example.com",
+    "accountCreatedDate": "2021-11-20",
+    "totalPurchases": 10,
+    "returnsHistory": ["ORDER001"],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST006",
+    "name": "Fiona Green",
+    "email": "fiona@example.com",
+    "accountCreatedDate": "2023-05-15",
+    "totalPurchases": 1,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST007",
+    "name": "George Harris",
+    "email": "george@example.com",
+    "accountCreatedDate": "2020-08-10",
+    "totalPurchases": 15,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST008",
+    "name": "Hannah Wilson",
+    "email": "hannah@example.com",
+    "accountCreatedDate": "2023-02-28",
+    "totalPurchases": 3,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST009",
+    "name": "Isaac Martinez",
+    "email": "isaac@example.com",
+    "accountCreatedDate": "2022-07-22",
+    "totalPurchases": 7,
+    "returnsHistory": ["ORDER005"],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST010",
+    "name": "Julia Anderson",
+    "email": "julia@example.com",
+    "accountCreatedDate": "2021-03-14",
+    "totalPurchases": 12,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST011",
+    "name": "Kevin Taylor",
+    "email": "kevin@example.com",
+    "accountCreatedDate": "2023-04-10",
+    "totalPurchases": 2,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST012",
+    "name": "Lisa Moore",
+    "email": "lisa@example.com",
+    "accountCreatedDate": "2020-12-01",
+    "totalPurchases": 8,
+    "returnsHistory": ["ORDER003", "ORDER004"],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST013",
+    "name": "Michael Jackson",
+    "email": "michael@example.com",
+    "accountCreatedDate": "2022-09-15",
+    "totalPurchases": 6,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST014",
+    "name": "Nina Patel",
+    "email": "nina@example.com",
+    "accountCreatedDate": "2021-06-30",
+    "totalPurchases": 9,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  },
+  {
+    "id": "CUST015",
+    "name": "Oliver White",
+    "email": "oliver@example.com",
+    "accountCreatedDate": "2023-03-20",
+    "totalPurchases": 1,
+    "returnsHistory": [],
+    "accountStatus": "active"
+  }
+]
